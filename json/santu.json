@@ -1,0 +1,10 @@
+{
+  "santu_signup_url": "http://santu.com/en/signup/",
+  "santu_buy_now_links": "http://goto.3d3.com/wphelp-buy-now-links/",
+  "santu_buy_now_buttons": "http://goto.3d3.com/wphelp-buy-now-buttons/",
+  "santu_select_button": "http://goto.3d3.com/wphelp-select-button/",
+  "santu_sell_from_image": "http://goto.3d3.com/wphelp-sell-from-image/",
+  "santu_embed_store": "http://goto.3d3.com/wphelp-embed-store/",
+  "santu_show_help": "http://goto.3d3.com/wphelp-signup/",
+  "santu_buy_now_product": "http://app.santu.com/buynow/product"
+}

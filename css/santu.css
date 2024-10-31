@@ -1,0 +1,88 @@
+*{box-sizing:border-box}
+.sntldr{display:none;background:url('../img/l2.gif') no-repeat center center;width:48px;height:48px;position:fixed;z-index:999999999;margin:auto;top:48%;left:48%}
+i.santu-16-icon{background-image:url(../img/i16.png)}
+#santuLoadModal{position:fixed;top:0;left:0;height:100%;width:100%;z-index:999999 !important;;display:none}
+#santuModalBG{background:rgba(0,0,0,0.7);position:absolute;top:0;left:0;height:100%;width:100%}
+#santuModalBG a{transition:all 0.3s ease 0s}
+#santuModal{position:fixed;left:0;right:0;top:0;bottom:0;max-height:400px;z-index:1;width:100%;height:100%;max-width:600px;margin:auto;border:1px solid #cbcccc;background:#fff}
+#santuModal input[type='text'],#santuModal select{padding:5px;border:1px solid #cbcccc;width:435px;height:auto}
+#santuModal select{width:436px}.santuModalContent{padding:15px;overflow:hidden;min-height:234px}
+.santuModalBoxA #santuModal,.santuModalBoxE #santuModal{ max-height: 318px }
+.santuModalContent label{margin-top:10px;display:inline-block;padding-bottom:7px}
+.smHead{width:auto;padding:5px 9px;overflow:hidden;border-bottom:1px solid #cbcccc}
+.smLogo{min-width:41px;float:left}
+.smTitle{float:left;font-size:16px;font-weight:bold;line-height:22px}
+.smClose{float:right}
+.smFoot{background:#fff none repeat scroll 0 0;border-top:1px solid #cbcccc;padding:1% 1.5%;position:absolute;width:100%;z-index:2}
+.feature-img{text-align:center;width:100%}
+.feature-img img {text-align:center;	width: 300px;cursor: pointer;max-width: 300px;max-height: 200px;margin-top: 25px;}
+.other-imgs{background-color:#f9f9f9;display:inline-block;margin-top:20px;width:100%;max-height:265px;overflow:auto}
+.other-imgs li{display:inline-block;padding:10px;width:33%}.other-imgs a img{cursor:pointer;width:150px}
+.choose-img:hover{opacity: 0.5;}
+.choose-img.active {border: 1px solid black;opacity:1;}
+.santuModalBoxD{z-index:999999 !important}.santuModalBoxD.santuModal{overflow:auto}
+.santuModalBoxD .smFoot{background:#fff none repeat scroll 0 0;border-top:1px solid #cbcccc;bottom:0;display:inline-block;padding:1% 1.5%;width:100%;z-index:2;right:0}
+.santuModal-full .smFoot{bottom:0;width:100%;position:fixed}.feature-img a,.other-imgs li a{box-shadow:none}
+.stescat{display: none;}
+.santuModal-full{max-width:none !important;max-height:none !important}.smControl{float:right}
+.smBtn{padding:4px 12px;text-decoration:none;display:inline-block;border-radius:2px}
+.smbtn1{background:#2c8ac8;color:#fff;margin-right:10px}.smbtn1:hover{background:#1d5a83}
+.smbtn2{background:#f1f1f1;color:#343434;margin-right:10px}.smbtn2:hover{background:#ddd}
+.smTabNav{width:100%;display:block;clear:both;margin:0;padding:0;border-bottom:1px solid #cbcccc;float:left;background:#f1f1f1}
+.smBtnTabNav{width:100%;display:block;clear:both;margin:0;padding:0;border-bottom:1px solid #cbcccc;border-top:1px solid #cbcccc;float:left;background:#f1f1f1}
+.smBtnPanel{display:none;clear:both;float:left;width:100%;padding-top:15px}
+.smBtnPanel0{display:block}.smTabNav a,.smBtnTabNav a{text-decoration:none;color:#343434;padding:8px 15px;display:inline-block;box-shadow:none !important}
+.smActive{background:#fff}.smTabNav li{display:inline-block;border-right:1px solid #cbcccc;margin-bottom:-5px;float:left}
+.smBtnTabNav li{display:inline-block;border-right:1px solid #cbcccc;margin-bottom:-1px;float:left}
+.smPanel2{display:none}
+.smSetting{float:right !important;border:none !important}
+.smToolTip{margin:0 10px;position:relative;display:inline-block}
+.smToolTip span{display:none;position:absolute;top:0;right:17px;background:rgba(0,0,0,0.7);color:#fff;font-size:12px;width:150px;padding:10px;border-radius:3px;z-index:2;text-align:center;box-shadow:0px 0px 3px #000}
+.smToolTip:hover>span{display:inline-block}.smPreview{padding:15px 25px;text-align:center;border:1px solid #cbcccc;width:387px;display:inline-block}
+.stSpecial_link,.stMButton_text{display:none}.spGrp0,.spGrp1,.spGrp2,.spGrp3,.spGrp4,.spGrp5{display:block;clear:both;margin-bottom:10px}
+.stSepr{display:inline-block;width:15px}
+/*--------------------- preview button ------------------------------*/
+.stRangeCnt{position:relative;display:inline-block;width:100%;clear:both;float:left;margin-bottom:10px}
+.stRangeCnt label{margin:0;clear:both;display:block}
+.stRangeCnt select{max-width:100%}
+.stRangeCnt .rangeslider{max-width:90%}
+.santuModalBoxB .smPreview{width:100%;border:none;padding:0}
+.theme-green .scale{display:none}
+.smBtnSecA,.smBtnSecB{display:block;width:48%}
+.smBtnSecA{float:left}.smBtnSecB{float:right}
+.btnColorPlt1{display:inline-block}
+.btnClrA,.btnClrB{border:1px solid #e5e5e5;padding:10px;float:left;width:90%}
+.btnClrA ul,.btnClrB ul{margin:0;display:block;width:100%}
+.btnClrA li,.btnClrB li{margin:0;display:block;width:100% float:left;margin-bottom:10px}
+.stBtnCLbl{padding-right:10px;min-width:100px;display:inline-block}
+.btnColorRadio{margin-bottom:10px;display:block}
+/*-------------- Button Collection -----------------------*/
+.stAllMyCollect input{margin:0}.stAllMyCollect input[value="2"]{margin-left:15px}
+.stCollTab{display:none;max-height:190px;overflow-x:scroll}
+.stMyCollTab{max-height:190px;overflow-x:scroll}.stCollTab0{display:block}
+.stCollCont{background:#f6f6f6;padding:5px 10px}.stCollCont ul{margin:0;width:100%}
+.stAlColTab .stCollCont ul li{text-align:center;list-style:none;display:inline-block;width:24%;padding:5px;margin-left:1%;margin-bottom:0;border:3px solid #f6f6f6;border-radius:5px;position:relative}
+.stMyCollTab .stCollCont ul li{text-align:center;list-style:none;display:inline-block;width:auto;height:auto;border:3px solid #f6f6f6;border-radius:5px;position:relative;overflow:hidden;margin:0}
+.stMyColTab .stCollCont{margin-top:10px}
+.stRemoveCollection{position:absolute;bottom:0;right:0;cursor:pointer;opacity:0.7}
+.stRemoveCollection:hover{opacity:1}.stCollCont ul li:hover{border:3px solid #660000}
+.stcACBtn{border:3px solid #0154a4 !important;background:#ddd}.stCollSel{min-width:92%;margin:10px 0}
+.stCollTab a{padding:10px 20px !important;font-size:14px !important}.stMyColTab{display:none}
+/*------------------------- Icon Edit ----------------------------*/
+.stIEdit{width:30%;display:inline-block;margin-right:1%;float:left}
+.stIEdit3{margin-right:0}.stIEPre{margin-right:10px}
+.stIEPre img{background:#ddd;padding:5px;border-radius:2px;vertical-align:middle;margin-bottom:4px}
+.stdropdown{position:relative;width:100%}.stdropdown>*{box-sizing:border-box;height:1.5em}
+.stdropdown input{position:absolute;max-width:414px !important;border:none !important;top:1px;left:1px}
+.stIconPosition img{vertical-align:bottom}
+/* Santu Buttons */
+a.santuButton{display:inline-block;cursor:pointer;text-decoration:none;padding:10px 20px !important;transition: all 0.3s ease 0s; line-height:initial}
+a.santuButton img{ vertical-align: middle; display: inline-block !important;background:none !important;box-shadow:none !important}
+.stMyColTab .santuButton {margin: 5px}
+.stRow{display:inline-block;margin:10px 0;padding:0 10px;width:100%}
+.stBtnBox{border:5px solid #fff;float:left;margin:0 10px;padding:15px 0;text-align:center;width:22%;background-color:#f5f5f5}
+.stBtnBox:first-child{margin-left:0}.stBtnBox:last-child{margin-right:0}
+.stsBtn{color:#fff;display:inline-block;padding:10px 40px;text-decoration:none}
+.smPreview .smbChangeButton{display:block !important}
+/*contetn_fixe*/
+#tinymce map,#tinymce area{display: none !important;visibility:hidden !important}.santu_paste_icon{	cursor:pointer;}

@@ -1,0 +1,28 @@
+/*
+Collection Name:Unicorn UI - Pill - Simple
+Slug:btn
+*/
+a#stsBtn1{background:#ddd !important;color:#555 !important;border:1px solid #bbb !important;border-radius:50px !important;font-family:Verdana !important;text-shadow: none !important}
+a#stsBtn1:hover{background:#eee !important;color:#555}
+a#stsBtn2{background:#44c767 !important;color:#fff !important;border:1px solid #2FB33E !important;border-radius:50px !important;font-family:Verdana !important;text-shadow: none !important}
+a#stsBtn2:hover{background:#2FB33E !important;color:#fff}
+a#stsBtn3{background:#a5de37 !important;color:#fff !important;border:1px solid #9DD334 !important;border-radius:50px !important;font-family:Verdana !important;text-shadow: none !important}
+a#stsBtn3:hover{background:#9DD334 !important;color:#fff}
+a#stsBtn4{background:#269ce9 !important;color:#fff !important;border:1px solid #228CD2 !important;border-radius:50px !important;font-family:Verdana !important;text-shadow: none !important}
+a#stsBtn4:hover{background:#228CD2 !important;color:#fff}
+a#stsBtn5{background:#26c6da !important;color:#e0f7fa !important;border:1px solid #22B2C4 !important;border-radius:50px !important;font-family:Verdana !important;text-shadow: none !important}
+a#stsBtn5:hover{background:#24BCCF !important;color:#e0f7fa}
+a#stsBtn6{background:#ff9800 !important;color:#fff !important;border:1px solid #E68900 !important;border-radius:50px !important;font-family:Verdana !important;text-shadow: none !important}
+a#stsBtn6:hover{background:#F29000 !important;color:#fff}
+a#stsBtn7{background:#ffa726 !important;color:#fff3e0 !important;border:1px solid #ffa726 !important;border-radius:50px !important;font-family:Verdana !important;text-shadow: none !important}
+a#stsBtn7:hover{background:#F29F24 !important;color:#fff3e0}
+a#stsBtn8{background:#7b72e9 !important;color:#fff !important;border:1px solid #6F67D2 !important;border-radius:50px !important;font-family:Verdana !important;text-shadow: none !important}
+a#stsBtn8:hover{background:#6F67D2 !important;color:#fff}
+a#stsBtn9{background:#ff4351 !important;color:#fff !important;border:1px solid #E63C49 !important;border-radius:50px !important;font-family:Verdana !important;text-shadow: none !important}
+a#stsBtn9:hover{background:#E63C49 !important;color:#fff}
+a#stsBtn10{background:#ff7043 !important;color:#fbe9e7 !important;border:1px solid #F26A40 !important;border-radius:50px !important;font-family:Verdana !important;text-shadow: none !important}
+a#stsBtn10:hover{background:#F26A40 !important;color:#fff}
+a#stsBtn11{background:#ef027d !important;color:#fbe9e7 !important;border:1px solid #ef027d !important;border-radius:50px !important;font-family:Verdana !important;text-shadow: none !important}
+a#stsBtn11:hover{background:#E30277 !important;color:#fff}
+a#stsBtn12{background:#c123de !important;color:#fbe9e7 !important;border:1px solid #B721D3 !important;border-radius:50px !important;font-family:Verdana !important;text-shadow: none !important}
+a#stsBtn12:hover{background:#B721D3 !important;color:#fff}
